@@ -83,3 +83,6 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+
+# Set theme to Moon
+remote_theme: TaylanTatli/Moon
