@@ -86,3 +86,5 @@ exclude:
 
 # Set theme to Moon
 remote_theme: TaylanTatli/Moon
+
+theme: jekyll-theme-cayman
