@@ -20,7 +20,7 @@ footer-links:
   email: ell22@duke.edu
   facebook:
   flickr:
-  github: eddyleelin/eddylin.github.io
+  github: eddyleelin
   instagram:
   linkedin:
   pinterest:
@@ -40,7 +40,7 @@ google_analytics: UA-171577708-1
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: https://eddylin.github.io/
+url: https://eddyleelin.github.io/
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
