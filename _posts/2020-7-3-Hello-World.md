@@ -15,6 +15,6 @@ At first, I will start small, learning the basics of the PyTorch framework, whil
 - Object detection
 - Segmentation
 - Depth perception
-- 3D reconstruction
+- 3D reconstruction & mapping players
 - Motion tracking
 - Player motion prediction
