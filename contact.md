@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contact Me
-permalink: /about/
+permalink: /contact/
 ---
 
 As a beginner in this field, I hope you found my posts interesting, useful, or inspiring in any way! 
